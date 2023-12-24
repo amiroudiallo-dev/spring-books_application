@@ -1,0 +1,6 @@
+### Project configuration file.
+spring:
+  application:
+    name: BooksApplication
+server:
+  port: 8008
